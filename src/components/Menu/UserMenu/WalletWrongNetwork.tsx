@@ -33,7 +33,7 @@ const WalletWrongNetwork: React.FC<WalletWrongNetworkProps> = ({ onDismiss }) =>
           {t('Switch Network')}
         </Button>
       )}
-      <StyledLink href="https://docs.wagyuswap.app/get-started/connection-guide" external>
+      <StyledLink href="https://docs.wagyuswap.xyz/get-started/connection-guide" external>
         <Button width="100%" variant="secondary">
           {t('Learn How')}
           <HelpIcon color="primary" ml="6px" />

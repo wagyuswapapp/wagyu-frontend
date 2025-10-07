@@ -118,7 +118,7 @@ const Home = () => {
       )}
       <Gradient p="64px 0">
         <SectionsWithFoldableText header={t('FAQs')} config={config(t)} m="auto" />
-        <LinkExternal href="https://docs.wagyuswap.app/contact-us/nft-market-applications" mx="auto" mt="16px">
+        <LinkExternal href="https://docs.wagyuswap.xyz/contact-us/nft-market-applications" mx="auto" mt="16px">
           {t('Apply to NFT Marketplace!')}
         </LinkExternal>
       </Gradient>

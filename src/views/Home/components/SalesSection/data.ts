@@ -11,7 +11,7 @@ export const swapSectionData = (t: TranslateFunction): SalesSectionProps => ({
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.wagyuswap.app/wagyuswap/',
+    to: 'https://docs.wagyuswap.xyz/wagyuswap/',
     text: t('Learn'),
     external: true,
   },
@@ -35,7 +35,7 @@ export const earnSectionData = (t: TranslateFunction): SalesSectionProps => ({
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.wagyuswap.app/products/yield-farming',
+    to: 'https://docs.wagyuswap.xyz/products/yield-farming',
     text: t('Learn'),
     external: true,
   },
@@ -61,7 +61,7 @@ export const cakeSectionData = (t: TranslateFunction): SalesSectionProps => ({
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.wagyuswap.app/tokenomics/cake',
+    to: 'https://docs.wagyuswap.xyz/tokenomics/cake',
     text: t('Learn'),
     external: true,
   },

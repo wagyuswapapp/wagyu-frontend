@@ -157,7 +157,7 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
       },
       {
         label: t('Docs'),
-        href: 'https://docs.wagyuswap.app/wagyuswap',
+        href: 'https://docs.wagyuswap.xyz/wagyuswap',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
       {
@@ -167,12 +167,12 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
       },
       {
         label: t('Blog'),
-        href: 'https://medium.com/@wagyuswap.app',
+        href: 'https://medium.com/@wagyuswap.xyz',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
       {
         label: t('Support'),
-        href: 'mailto:support@wagyuswap.app',
+        href: 'mailto:support@wagyuswap.xyz',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
       {

@@ -56,7 +56,7 @@ function MyApp(props: AppProps) {
         <meta name="description" content="DEX ON VELAS CHAIN" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, minimum-scale=1" />
         <meta name="theme-color" content="rgb(222, 37, 73)" />
-        <meta name="twitter:image" content="https://exchange.wagyuswap.app/images/hero.png" />
+        <meta name="twitter:image" content="https://exchange.wagyuswap.xyz/images/hero.png" />
         <meta
           name="twitter:description"
           content="The most popular AMM on VELAS! Earn WAGYU through yield farming or win it in the Lottery, then stake it in Sizzle Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by Wagyuswap), NFTs, and more, on a platform you can trust."

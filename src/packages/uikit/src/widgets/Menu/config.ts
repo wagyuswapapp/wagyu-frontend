@@ -161,7 +161,7 @@ export const userMenulinks: DropdownMenuItems[] = [
   },
   {
     type: DropdownMenuItemType.EXTERNAL_LINK,
-    href: 'https://exchange.wagyuswap.app',
+    href: 'https://exchange.wagyuswap.xyz',
     label: 'Link',
   },
   {

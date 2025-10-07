@@ -31,7 +31,7 @@ const ImgWrapper = styled.img`
 const CakePrice: React.FC<Props> = ({ cakePriceUsd, color = 'textSubtle', showSkeleton = true }) => {
   return cakePriceUsd ? (
     <PriceLink
-      href="https://exchange.wagyuswap.app/swap?outputCurrency=0xaBf26902Fd7B624e0db40D31171eA9ddDf078351"
+      href="https://exchange.wagyuswap.xyz/swap?outputCurrency=0xaBf26902Fd7B624e0db40D31171eA9ddDf078351"
       target="_blank"
     >
       <ImgWrapper alt="logo" className="mr-24" src="/images/logo.png" />

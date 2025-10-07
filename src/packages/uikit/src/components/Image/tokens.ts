@@ -9,7 +9,7 @@ const tokens = {
       111: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
-    projectLink: 'https://exchange.wagyuswap.app/',
+    projectLink: 'https://exchange.wagyuswap.xyz/',
   },
   txl: {
     symbol: 'TXL',
@@ -441,7 +441,7 @@ const tokens = {
       111: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
     },
     decimals: 18,
-    projectLink: 'https://exchange.wagyuswap.app/',
+    projectLink: 'https://exchange.wagyuswap.xyz/',
   },
   blink: {
     symbol: 'BLINK',
@@ -585,7 +585,7 @@ const tokens = {
       111: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
     },
     decimals: 18,
-    projectLink: 'https://exchange.wagyuswap.app/',
+    projectLink: 'https://exchange.wagyuswap.xyz/',
   },
   bifi: {
     symbol: 'BIFI',

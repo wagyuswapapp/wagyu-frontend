@@ -125,7 +125,7 @@ const PoolStatsInfo: React.FC<ExpandedFooterProps> = ({
       )}
       {vaultKey && (
         <Flex mb="2px" justifyContent={alignLinksToRight ? 'flex-end' : 'flex-start'}>
-          <LinkExternal href="https://docs.wagyuswap.app/wagyuswap/products/migration" bold={false} small>
+          <LinkExternal href="https://docs.wagyuswap.xyz/wagyuswap/products/migration" bold={false} small>
             {t('View Tutorial')}
           </LinkExternal>
         </Flex>
