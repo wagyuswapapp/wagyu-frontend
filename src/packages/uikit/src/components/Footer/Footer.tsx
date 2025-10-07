@@ -89,7 +89,7 @@ const MenuItem: React.FC<FooterProps> = ({
             </Box>
             <Button
               as="a"
-              href="https://exchange.wagyuswap.app/swap?outputCurrency=0xaBf26902Fd7B624e0db40D31171eA9ddDf078351"
+              href="https://exchange.wagyuswap.xyz/swap?outputCurrency=0xaBf26902Fd7B624e0db40D31171eA9ddDf078351"
               target="_blank"
               scale="sm"
               endIcon={<ArrowForwardIcon color={lightColors.backgroundAlt} />}

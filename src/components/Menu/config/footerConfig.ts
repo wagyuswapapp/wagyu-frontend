@@ -7,19 +7,19 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Contact'),
-        href: 'mailto:support@wagyuswap.app',
+        href: 'mailto:support@wagyuswap.xyz',
       },
       {
         label: t('Brand'),
-        href: 'https://docs.wagyuswap.app/brand',
+        href: 'https://docs.wagyuswap.xyz/brand',
       },
       {
         label: t('Blog'),
-        href: 'https://medium.com/@wagyuswap.app',
+        href: 'https://medium.com/@wagyuswap.xyz',
       },
       // {
       //   label: t('Community'),
-      //   href: 'https://docs.wagyuswap.app/contact-us/telegram',
+      //   href: 'https://docs.wagyuswap.xyz/contact-us/telegram',
       // },
       // {
       //   label: t('Litepaper'),
@@ -39,15 +39,15 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
   //   items: [
   //     {
   //       label: t('Customer Support'),
-  //       href: 'https://docs.wagyuswap.app/contact-us/customer-support',
+  //       href: 'https://docs.wagyuswap.xyz/contact-us/customer-support',
   //     },
   //     {
   //       label: t('Troubleshooting'),
-  //       href: 'https://docs.wagyuswap.app/help/troubleshooting',
+  //       href: 'https://docs.wagyuswap.xyz/help/troubleshooting',
   //     },
   //     {
   //       label: t('Guides'),
-  //       href: 'https://docs.wagyuswap.app/get-started',
+  //       href: 'https://docs.wagyuswap.xyz/get-started',
   //     },
   //   ],
   // },
@@ -60,19 +60,19 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('Documentation'),
-        href: 'https://docs.wagyuswap.app/wagyuswap',
+        href: 'https://docs.wagyuswap.xyz/wagyuswap',
       },
       // {
       //   label: t('Bug Bounty'),
-      //   href: 'https://docs.wagyuswap.app/code/bug-bounty',
+      //   href: 'https://docs.wagyuswap.xyz/code/bug-bounty',
       // },
       // {
       //   label: t('Audits'),
-      //   href: 'https://docs.wagyuswap.app/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited',
+      //   href: 'https://docs.wagyuswap.xyz/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited',
       // },
       // {
       //   label: t('Careers'),
-      //   href: 'https://docs.wagyuswap.app/hiring/become-a-chef',
+      //   href: 'https://docs.wagyuswap.xyz/hiring/become-a-chef',
       // },
     ],
   },

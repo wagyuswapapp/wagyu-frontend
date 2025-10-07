@@ -113,7 +113,7 @@ const Footer = () => {
           {t('No registration needed.')}
         </Text>
 
-        <Link external href="https://docs.wagyuswap.app/">
+        <Link external href="https://docs.wagyuswap.xyz/">
           {t('Learn how to start')}
         </Link>
         {!account && <ConnectWalletButton mt="24px" />}

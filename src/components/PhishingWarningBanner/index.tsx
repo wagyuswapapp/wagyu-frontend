@@ -46,8 +46,8 @@ const PhishingWarningBanner: React.FC = () => {
   const { t } = useTranslation()
   const [, hideBanner] = usePhishingBannerManager()
   const { isMobile, isMd } = useMatchBreakpoints()
-  const warningText = t("please make sure you're visiting https://exchange.wagyuswap.app - check the URL carefully.")
-  const warningTextAsParts = warningText.split(/(https:\/\/exchange.wagyuswap.app)/g)
+  const warningText = t("please make sure you're visiting https://exchange.wagyuswap.xyz - check the URL carefully.")
+  const warningTextAsParts = warningText.split(/(https:\/\/exchange.wagyuswap.xyz)/g)
   const warningTextComponent = (
     <>
       <Text as="span" color="warning" small bold textTransform="uppercase">
@@ -59,8 +59,8 @@ const PhishingWarningBanner: React.FC = () => {
           key={i}
           small
           as="span"
-          bold={text === 'https://exchange.wagyuswap.app'}
-          color={text === 'https://exchange.wagyuswap.app' ? '#FFFFFF' : '#BDC2C4'}
+          bold={text === 'https://exchange.wagyuswap.xyz'}
+          color={text === 'https://exchange.wagyuswap.xyz' ? '#FFFFFF' : '#BDC2C4'}
         >
           {text}
         </Text>

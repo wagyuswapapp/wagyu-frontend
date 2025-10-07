@@ -38,7 +38,7 @@ const CanceledRoundCard: React.FC<CanceledRoundCardProps> = ({ round }) => {
               {t('Round Cancelled')}
             </Text>
             {isRefundable && <ReclaimPositionButton epoch={epoch} onSuccess={handleSuccess} width="100%" my="8px" />}
-            <LinkExternal href="https://docs.wagyuswap.app/products/prediction" external>
+            <LinkExternal href="https://docs.wagyuswap.xyz/products/prediction" external>
               {t('Learn More')}
             </LinkExternal>
           </Flex>

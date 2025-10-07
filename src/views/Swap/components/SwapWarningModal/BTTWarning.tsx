@@ -16,7 +16,7 @@ const BTTWarning = () => {
         {t('Trade the new BTT token')}{' '}
         <Link
           style={{ display: 'inline' }}
-          href="https://exchange.wagyuswap.app/swap?outputCurrency=0x352Cb5E19b12FC216548a2677bD0fce83BaE434B"
+          href="https://exchange.wagyuswap.xyz/swap?outputCurrency=0x352Cb5E19b12FC216548a2677bD0fce83BaE434B"
         >
           {t('here')}
         </Link>

@@ -7,8 +7,11 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://exchange.wagyuswap.app/logo.png",
-  "keywords": ["wagyuswap", "default"],
+  "logoURI": "https://exchange.wagyuswap.xyz/logo.png",
+  "keywords": [
+    "wagyuswap",
+    "default"
+  ],
   "tokens": [
     {
       "name": "Wagyu",

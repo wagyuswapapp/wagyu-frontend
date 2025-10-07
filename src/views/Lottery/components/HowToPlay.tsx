@@ -332,7 +332,7 @@ const HowToPlay: React.FC = () => {
                 {t(
                   'An average total of 35,000 WAG from the treasury is added to lottery rounds over the course of a week. This WAG is of course also included in rollovers! Read more in our guide to ',
                 )}
-                <InlineLink href="https://docs.wagyuswap.app/wagyuswap/">{t('WAG Tokenomics')}</InlineLink>
+                <InlineLink href="https://docs.wagyuswap.xyz/wagyuswap/">{t('WAG Tokenomics')}</InlineLink>
               </Text>
             </li>
           </BulletList>
@@ -349,7 +349,7 @@ const HowToPlay: React.FC = () => {
           </Heading>
           <Text>
             {t('Check our in-depth guide on')}{' '}
-            <InlineLink href="https://docs.wagyuswap.app/wagyuswap/products/wagyuswap-lottery">
+            <InlineLink href="https://docs.wagyuswap.xyz/wagyuswap/products/wagyuswap-lottery">
               {t('how to play the WagyuSwap lottery!')}
             </InlineLink>
           </Text>

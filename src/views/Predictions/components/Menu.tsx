@@ -74,7 +74,7 @@ const Menu = () => {
             <Button
               variant="subtle"
               as="a"
-              href="https://docs.wagyuswap.app/products/prediction"
+              href="https://docs.wagyuswap.xyz/products/prediction"
               target="_blank"
               rel="noreferrer noopener"
               width="48px"

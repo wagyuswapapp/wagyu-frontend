@@ -74,7 +74,7 @@ const MigrationPage: React.FC = () => {
         <Heading scale="lg" color="text">
           {t('Migrate your stakings to the new WAGFarm contract.')}
         </Heading>
-        <Link href="https://docs.wagyuswap.app/wagyuswap/products/migration" external>
+        <Link href="https://docs.wagyuswap.xyz/wagyuswap/products/migration" external>
           <Button p="0" variant="text">
             <Text color="primary" bold fontSize="16px" mr="4px">
               {t('Learn more')}

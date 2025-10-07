@@ -35,7 +35,7 @@ const eventDescriptionConfigBuilder = ({ t }: EventDescriptionType) => ({
     },
   ],
   primaryButton: {
-    to: 'https://docs.wagyuswap.app/wagyuswap/',
+    to: 'https://docs.wagyuswap.xyz/wagyuswap/',
     text: t('View Documentation'),
     external: true,
     isDisplayed: false,

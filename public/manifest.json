@@ -2,7 +2,7 @@
   "short_name": "WagyuSwap",
   "name": "WagyuSwap",
   "description": "Farm WAG with Wagyuswap LP Tokens",
-  "homepage_url": "https://exchange.wagyuswap.app",
+  "homepage_url": "https://exchange.wagyuswap.xyz",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",

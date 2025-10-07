@@ -22,7 +22,7 @@ const NotOkNFT = ({ admissionProfile }) => {
         <>
           <LinkExternal
             style={{ display: 'inline' }}
-            href={`https://exchange.wagyuswap.app/nfts/collections/${admissionProfile}`}
+            href={`https://exchange.wagyuswap.xyz/nfts/collections/${admissionProfile}`}
           >
             {t('Wagyuswap Squad NFT')}
           </LinkExternal>
@@ -50,7 +50,7 @@ const NotOkProfilePoints = ({ pointThreshold }) => {
           <br />
           <LinkExternal
             style={{ display: 'inline' }}
-            href={`https://exchange.wagyuswap.app/nfts/profile/${account}/achievements/`}
+            href={`https://exchange.wagyuswap.xyz/nfts/profile/${account}/achievements/`}
           >
             {t('Wagyuswap Profile')}
           </LinkExternal>

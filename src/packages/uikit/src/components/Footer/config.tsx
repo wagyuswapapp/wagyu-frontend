@@ -8,7 +8,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.wagyuswap.app/contact-us',
+        href: 'https://docs.wagyuswap.xyz/contact-us',
       },
       {
         label: 'Blog',
@@ -16,11 +16,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: 'Community',
-        href: 'https://docs.wagyuswap.app/contact-us/telegram',
+        href: 'https://docs.wagyuswap.xyz/contact-us/telegram',
       },
       {
         label: 'WAG',
-        href: 'https://docs.wagyuswap.app/tokenomics/cake',
+        href: 'https://docs.wagyuswap.xyz/tokenomics/cake',
       },
       {
         label: '—',
@@ -37,15 +37,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: 'Customer',
-        href: 'Support https://docs.wagyuswap.app/contact-us/customer-support',
+        href: 'Support https://docs.wagyuswap.xyz/contact-us/customer-support',
       },
       {
         label: 'Troubleshooting',
-        href: 'https://docs.wagyuswap.app/help/troubleshooting',
+        href: 'https://docs.wagyuswap.xyz/help/troubleshooting',
       },
       {
         label: 'Guides',
-        href: 'https://docs.wagyuswap.app/get-started',
+        href: 'https://docs.wagyuswap.xyz/get-started',
       },
     ],
   },
@@ -58,7 +58,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: 'Documentation',
-        href: 'https://docs.wagyuswap.app/wagyuswap',
+        href: 'https://docs.wagyuswap.xyz/wagyuswap',
       },
       {
         label: 'Bug Bounty',
@@ -66,11 +66,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: 'Audits',
-        href: 'https://docs.wagyuswap.app/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited',
+        href: 'https://docs.wagyuswap.xyz/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited',
       },
       {
         label: 'Careers',
-        href: 'https://docs.wagyuswap.app/hiring/become-a-chef',
+        href: 'https://docs.wagyuswap.xyz/hiring/become-a-chef',
       },
     ],
   },
@@ -96,7 +96,7 @@ export const socials = [
   {
     label: 'Medium',
     icon: MediumIcon,
-    href: 'https://medium.com/@wagyuswap.app',
+    href: 'https://medium.com/@wagyuswap.xyz',
   },
 ]
 
